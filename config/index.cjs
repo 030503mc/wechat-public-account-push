@@ -63,17 +63,17 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '小陈',
+      name: '小杨',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oCMrd6p1i6ugadKi9DZDL7Hq61AU',
+      id: 'oCMrd6kuqpjBNMuD9J0saHygOdb8',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'UZCGbTCO6J_IQsrVS7O6B938WHQtcgziKFagsU1B_xc',
       // 所在省份
       province: '河南',
       // 所在城市
-      city: '信阳',
+      city: '正阳',
       // 新历生日, 仅用作获取星座运势, 格式必须
-      horoscopeDate: '02-03',
+      horoscopeDate: '02-05',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
